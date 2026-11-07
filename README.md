@@ -67,12 +67,12 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=aliff747447&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AliElmohamdy&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aliff747447&theme=algolia&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AliElmohamdy&theme=algolia&hide_border=false)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=aliff747447&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AliElmohamdy&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=aliff747447&color=007bff&style=for-the-badge)](https://github.com/aliff747447)
+[![Profile Views](https://komarev.com/ghpvc/?username=AliElmohamdy&color=007bff&style=for-the-badge)](https://github.com/AliElmohamdy)
